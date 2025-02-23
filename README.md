@@ -15,9 +15,14 @@ TradeCoreAPI şu temel işlevleri sunar:
 
 ## 📌 Ekran Görüntüleri  
 
-![Ürün Ekleme](images/add_product.png)  
-![Sepete Ekleme](images/add_to_basket.png)  
-![Sepet](images/basket.png)  
-![Kategoriler](images/categories.png)  
-![Arama](images/search.png)  
+![Ürün Ekleme](images/add_product.png) 
+
+![Sepete Ekleme](images/add_to_basket.png)
+
+![Sepet](images/basket.png) 
+
+![Kategoriler](images/categories.png)
+
+![Arama](images/search.png)
+
 ![Giriş Yap](images/signIn.png)  
